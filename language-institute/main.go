@@ -1,4 +1,4 @@
-package language_institute
+package main
 
 import (
 	"bufio"

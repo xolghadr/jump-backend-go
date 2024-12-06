@@ -1,4 +1,4 @@
-package hope
+package main
 
 import (
 	"bufio"

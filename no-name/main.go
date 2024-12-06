@@ -1,4 +1,4 @@
-package noname
+package main
 
 func AddElement(numbers *[]int, element int) {
 	*numbers = append(*numbers, element)

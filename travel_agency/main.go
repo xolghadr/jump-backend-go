@@ -1,4 +1,4 @@
-package travel_agency
+package main
 
 import (
 	"bufio"

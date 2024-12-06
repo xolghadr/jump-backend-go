@@ -1,4 +1,4 @@
-package nasa
+package main
 
 import (
 	"bufio"
